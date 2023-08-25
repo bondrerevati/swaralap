@@ -1,0 +1,25 @@
+.header-div {
+  height: 50px;
+  background-color: #eee;
+  display: flex;
+  justify-content: space-between;
+}
+.logo-div {
+  width: 5%;
+}
+.logo {
+  height: 40px;
+  padding: 5px;
+}
+.menu-div {
+  width: 95%;
+  justify-content: center;
+  display: flex;
+  vertical-align: middle;
+}
+.nav-btn {
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

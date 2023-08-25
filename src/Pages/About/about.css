@@ -1,0 +1,35 @@
+.about-text-long {
+  color: #000;
+  width: 70%;
+  margin: 0 auto;
+}
+.about-head {
+  text-align: center;
+}
+.b-img {
+  width: 80%;
+  padding: 0 10%;
+  height: 500px;
+}
+.guru-det-div {
+  width: 70%;
+  margin: 0 auto;
+}
+.guru-detail {
+  display: flex;
+  border: solid 1px #000;
+}
+.guru-img-div {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.guru-img {
+  width: 200px;
+  height: auto;
+}
+.guru-det {
+  width: 75%;
+  padding: 10px;
+}

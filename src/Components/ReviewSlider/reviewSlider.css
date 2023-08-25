@@ -1,0 +1,57 @@
+.carousel-container {
+  width: 100%;
+  margin-top: 20px;
+  box-sizing: border-box;
+  position: relative;
+}
+.carousel-container:hover .nav-left {
+  display: block;
+}
+.nav-left {
+  display: none;
+  position: absolute;
+  color: #fff;
+  bottom: 45%;
+  font-size: 40px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  z-index: 1;
+}
+.nav-left:hover {
+  color: #545252;
+}
+.nav-right {
+  position: absolute;
+  color: #fff;
+  right: 20px;
+  bottom: 45%;
+  font-size: 40px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  z-index: 1;
+}
+.nav-right:hover {
+  color: #545252;
+}
+.cards {
+  display: flex;
+  overflow: auto;
+  position: relative;
+  padding: 20px;
+  overflow-x: hidden;
+}
+.card {
+  background-color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 300px;
+  margin: 0 20px;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.review-heading {
+    text-align: center;
+}

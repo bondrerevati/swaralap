@@ -1,0 +1,19 @@
+.footer-div {
+    margin-top: 50px;
+    display: flex;
+    background-color: #eee;
+    padding-bottom: 50px;
+}
+.addr-div {
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+.map {
+    padding-top: 50px;
+    width: 50%;
+}
+h5 {
+    margin: 0;
+    padding: 10px 0;
+}
