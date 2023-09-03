@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/swaralap/static/css/main.f164804b.css",
+    "main.js": "/swaralap/static/js/main.b3e1843e.js",
+    "static/js/787.ed4684e4.chunk.js": "/swaralap/static/js/787.ed4684e4.chunk.js",
+    "static/media/logo.png": "/swaralap/static/media/logo.d64f39e726503d2ce7c1.png",
+    "index.html": "/swaralap/index.html",
+    "main.f164804b.css.map": "/swaralap/static/css/main.f164804b.css.map",
+    "main.b3e1843e.js.map": "/swaralap/static/js/main.b3e1843e.js.map",
+    "787.ed4684e4.chunk.js.map": "/swaralap/static/js/787.ed4684e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f164804b.css",
+    "static/js/main.b3e1843e.js"
+  ]
+}
