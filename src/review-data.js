@@ -1,50 +1,29 @@
 export const reviewsData = [
   {
     index: 1,
-    reviewer: "Lorem Ipsum",
+    reviewer: "Rakhi Bisne",
     review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
+      "It's good experience join with swaralap music Mandar sir is v.good teacher for tabla and very polite and understanding person",
   },
   {
     index: 2,
-    reviewer: "Lorem Ipsum",
+    reviewer: "Swati Salegaonkar",
     review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
+      "Very peaceful & friendly environment while teaching along with perfect musical knowledge and extra information .",
   },
   {
     index: 3,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
+    reviewer: "amit patil (Tanavi & Rachit)",
+    review: "Perfect place for music knowledge gain",
   },
   {
     index: 4,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
+    reviewer: "Sulbha Joshi",
+    review: "One of the best music academy, thank you so much for being an excellent teacher😊 you are a joy to be around and have lots of patient, I appreciate all your efforts you have taken to continuing our coching during pandemic situation too u are always their to guide us n with very punctual timing, you helped me to grow and making my career in this field 👍🙏",
   },
   {
     index: 5,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
-  },
-  {
-    index: 6,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
-  },
-  {
-    index: 7,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
-  },
-  {
-    index: 8,
-    reviewer: "Lorem Ipsum",
-    review:
-      "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque vel faucibus ex, in convallis nunc. Duis tempor ante sed dictum imperdiet.",
+    reviewer: "Surekha Joshi",
+    review: "Very Nice classical Music School.Best place to learn Hinduatani Classical music.And really satisfied by the teaching 🎵🎶",
   },
 ];

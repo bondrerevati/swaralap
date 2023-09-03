@@ -1,20 +1,44 @@
 export const guruData = [
   {
-    image: "https://www.w3schools.com/howto/img_avatar.png",
+    id: 1,
+    image: "renuka.jpg",
     guruName: "Renuka Kulkarni",
     instrument: "Hindustani Vocal, Harmonium",
-    desc: "In diam magna, ornare vel imperdiet id, commodo eget nisl.Etiam euismod euismod augue, luctus finibus dolor posuere vel.Nullam bibendum nunc leo, ac facilisis erat cursus vel. Fuscevenenatis, tellus ac ultricies condimentum, lorem nullaconsectetur mauris, eget convallis urna orci sed odio. Quisque ultricies nibh ut blandit semper.",
+    desc: [
+      {
+        point:
+          "Disciple of Rev. Shivdasji Deglurkar and Rev. Sudhakar Ji Chavan",
+      },
+      {
+        point: "Founder of Swaralap Sangeet Vighalaya Pimple Gurav Sangvi Pune",
+      },
+      { point: "She has been teaching classical music for the past 26 years" },
+      { point: "Awarded as a skilled organizer and a great mentor" },
+      { point: "ISP teacher, so there are classes in abroad too" },
+    ],
   },
   {
-    image: "https://www.w3schools.com/howto/img_avatar.png",
+    id: 2,
+    image: "megha_k.jpg",
     guruName: "Megha Kulkarni Wagh",
     instrument: "Kathak",
-    desc: "In diam magna, ornare vel imperdiet id, commodo eget nisl.Etiam euismod euismod augue, luctus finibus dolor posuere vel.Nullam bibendum nunc leo, ac facilisis erat cursus vel. Fuscevenenatis, tellus ac ultricies condimentum, lorem nullaconsectetur mauris, eget convallis urna orci sed odio. Quisque ultricies nibh ut blandit semper.",
+    desc: [
+      { point: "Disciple of Shri Milind Kumar and Manisha Sathe" },
+      { point: "Bachelor of Commerce" },
+      { point: "An accomplished disciple and teacher since childhood" },
+      { point: "Currently working as a Kathak teacher at SNBP Rahatani" },
+      { point: "Knows German language" },
+    ],
   },
   {
-    image: "https://www.w3schools.com/howto/img_avatar.png",
+    id: 3,
+    image: "mandar_k.JPEG",
     guruName: "Mandar Kulkarni",
     instrument: "Tabla",
-    desc: "In diam magna, ornare vel imperdiet id, commodo eget nisl.Etiam euismod euismod augue, luctus finibus dolor posuere vel.Nullam bibendum nunc leo, ac facilisis erat cursus vel. Fuscevenenatis, tellus ac ultricies condimentum, lorem nullaconsectetur mauris, eget convallis urna orci sed odio. Quisque ultricies nibh ut blandit semper.",
+    desc: [
+      { point: "Disciple of Pt. Ramdas Palsule and Shri Sameer Suryavanshi" },
+      { point: "Bachelor of Commerce" },
+      { point: "French language teacher" },
+    ],
   },
 ];

@@ -50,3 +50,7 @@
   transition: max-height 0.6s ease;
   text-align: left;
 }
+.ans-div {
+  text-align: left;
+  margin-left: 8px;
+}

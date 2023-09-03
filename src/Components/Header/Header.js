@@ -11,7 +11,7 @@ export default function Header() {
       </div>
       <div className="menu-div">
       <button className="nav-btn" onClick={()=>navigate("/")}>Home</button>
-      <button className="nav-btn" onClick={()=>navigate("/about")}>About Us</button>
+      <button className="nav-btn" onClick={()=>navigate("/about")}>Our Gurus</button>
       </div>
     </div>
   );

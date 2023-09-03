@@ -55,12 +55,19 @@
 .about-text {
   color: #fff;
   margin: 0 10%;
-  text-align: center;
+  text-align: left;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
+  font-size: 20px;
 }
 .read-more {
   display: flex;
   justify-content: center;
+}
+@media screen and (max-width: 600px) {
+  .guru-images {
+    display: block;
+    margin: 0 auto;
+  }
 }

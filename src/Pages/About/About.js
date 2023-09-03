@@ -4,14 +4,14 @@ import { guruData } from "../../guru-data";
 export default function About() {
   return (
     <div>
-      <div className="b-img-div">
+      {/* <div className="b-img-div">
         <img
           src="https://i.ibb.co/58Mq6Mb/slide1.jpg"
           className="b-img"
           alt=""
         />
-      </div>
-      <div className="about-text-long">
+      </div> */}
+      {/* <div className="about-text-long">
         <h3 className="about-head">About Us</h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi magna
@@ -93,18 +93,20 @@ export default function About() {
           convallis urna orci sed odio. Quisque ultricies nibh ut blandit
           semper.
         </p>
-      </div>
+      </div> */}
       <div className="guru-det-div">
         {guruData.map((guru) => {
           return (
-            <div className="guru-detail">
+            <div className="guru-detail" id={guru.id}>
               <div className="guru-img-div">
-                <img className="guru-img" src={guru.image} alt="" />
+                <img className="guru-img" src={`/img/${guru.image}`} alt="" />
               </div>
               <div className="guru-det">
                 <h4>{guru.guruName}</h4>
                 <h4>{guru.instrument}</h4>
-                <p>{guru.desc}</p>
+                {guru.desc.map((guruDes)=>{
+                  return <p className="guru-d">{guruDes.point}</p>
+                })}
               </div>
             </div>
           );

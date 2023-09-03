@@ -25,7 +25,7 @@ export default function ReviewSlider() {
           {reviewsData.map((review) => {
             return (
               <div className="card">
-                <p>{review.reviewer}</p>
+                <p><b>{review.reviewer}</b></p>
                 <p>{review.review}</p>
               </div>
             );

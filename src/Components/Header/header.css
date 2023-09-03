@@ -1,8 +1,14 @@
 .header-div {
   height: 50px;
-  background-color: #eee;
+  position: fixed;
+  width: 100%;
   display: flex;
   justify-content: space-between;
+  box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+  overflow: hidden;
+  top: 0;
+  background-color: #fff;
+  z-index: 2;
 }
 .logo-div {
   width: 5%;
@@ -22,4 +28,5 @@
   border: none;
   background-color: transparent;
   cursor: pointer;
+  font-weight: bold;
 }

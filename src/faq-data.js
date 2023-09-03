@@ -1,27 +1,16 @@
 export const faqData = [
   {
-    question: "Where can I subscribe to your newsletter?",
+    question: "What are the various mode of payment accepted here?",
     answer:
-      "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter.",
+      "You can make payment Via Cash, Master Card, Visa Card, Debit Cards, Cheques, Amex Card, Credit Card.",
   },
   {
-    question: "Where can I subscribe to your newsletter?",
+    question: "Which is the nearest landmark?",
     answer:
-      "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter.",
+      "You can easily locate the establishment as it is in close proximity to Pwd Ground Near SAI Chowk Opposite New Sangavi Police Chowky.",
   },
   {
-    question: "Where can I subscribe to your newsletter?",
-    answer:
-      "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter.",
-  },
-  {
-    question: "Where can I subscribe to your newsletter?",
-    answer:
-      "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter.",
-  },
-  {
-    question: "Where can I subscribe to your newsletter?",
-    answer:
-      "We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time. Subscribe here to our newsletter.",
+    question: "What are its hours of operation?",
+    answer: "Mon - Sun : 09:00 a.m. to 09:00 p.m.",
   },
 ];
