@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./../../logo.png";
 import "./header.css";
 import { useNavigate } from "react-router-dom";
 export default function Header() {
@@ -7,7 +6,7 @@ export default function Header() {
   return (
     <div className="header-div">
       <div className="logo-div">
-        <img src={logo} alt="" className="logo" />
+        <img src={`./logo.png`} alt="" className="logo" />
       </div>
       <div className="menu-div">
       <button className="nav-btn" onClick={()=>navigate("/")}>Home</button>

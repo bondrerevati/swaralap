@@ -1,12 +1,11 @@
 import React from "react";
 import "./footer.css";
-import logo from "./../../logo.png";
 export default function Footer() {
   return (
     <div className="footer-div">
       <div className="left-footer">
         <div className="logo-div-footer">
-          <img src={logo} alt="" className="logo" />
+          <img src={`./logo.png`} alt="" className="logo" />
         </div>
         <div className="addr-div">
           <h5>Address</h5>
