@@ -17,8 +17,8 @@ export default function Footer() {
           Pune 411060 Maharashtra
           <h5>Phone</h5>
           094204 26951
-          <h5>Email</h5>
-          abc@xyz.com
+          {/* <h5>Email</h5>
+          abc@xyz.com */}
         </div>
       </div>
       <div className="map">
