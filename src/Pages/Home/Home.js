@@ -19,7 +19,7 @@ export default function Home() {
           return (
             <div className="guru-div">
               <img
-                src={`./swaralap/img/${guru.image}`}
+                src={`./img/${guru.image}`}
                 alt={guru.name}
                 className="guru-image"
               />

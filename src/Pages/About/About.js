@@ -99,7 +99,7 @@ export default function About() {
           return (
             <div className="guru-detail" id={guru.id}>
               <div className="guru-img-div">
-                <img className="guru-img" src={`./swaralap/img/${guru.image}`} alt="" />
+                <img className="guru-img" src={`./img/${guru.image}`} alt="" />
               </div>
               <div className="guru-det">
                 <h4>{guru.guruName}</h4>

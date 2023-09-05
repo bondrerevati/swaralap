@@ -46,7 +46,7 @@ const ImageSlider = () => {
           >
             {index === currentSlide && (
               <div>
-                <img src={`./swaralap/img/${slide.image}`} alt="slide" className="image" />
+                <img src={`./img/${slide.image}`} alt="slide" className="image" />
               </div>
             )}
           </div>
