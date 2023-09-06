@@ -80,4 +80,10 @@
   .about-text {
     font-size: 0.75em;
   }
+  .home-title {
+    font-size: 1.25em;
+  }
+  .our-gurus {
+    font-size: 14px;
+  }
 }

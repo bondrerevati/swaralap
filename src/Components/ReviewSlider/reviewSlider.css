@@ -58,11 +58,15 @@
 @media screen and (max-width: 600px) {
   .card {
     font-size: 0.75em;
+    margin: 0 10px;
   }
   .review-heading {
     font-size: 16px;
   }
-  .home-title {
-    font-size: 1.5em;
+  .nav-left {
+    font-size: 20px;
+  }
+  .nav-right {
+    font-size: 20px;
   }
 }
