@@ -5,13 +5,13 @@ import { reviewsData } from "../../review-data";
 export default function ReviewSlider() {
   const handleBackward = () => {
     document.getElementById("cards").scrollBy({
-      left: -300,
+      left: -380,
       behavior: "smooth",
     });
   };
   const handleForward = () => {
     document.getElementById("cards").scrollBy({
-      left: 300,
+      left: 380,
       behavior: "smooth",
     });
   };

@@ -79,7 +79,7 @@ hr {
     width: 100%;
   }
   .slider {
-    float:left;
+    float: left;
     overflow: auto;
     min-height: 20vh;
     height: auto;
@@ -90,5 +90,9 @@ hr {
   .slide img {
     width: 100vw;
     height: auto;
+  }
+  .arrow {
+    height: 1rem;
+    width: 1rem;
   }
 }
