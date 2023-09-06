@@ -24,8 +24,12 @@ h5 {
     display: block;
   }
   .map {
-    width: 80%;
-    padding-left: 3.125em;
+    width: 60%;
+    padding-left: 40px;
+    padding-top: 2em;
+  }
+  .addr-div {
+    font-size: 0.75em;
   }
 }
 
