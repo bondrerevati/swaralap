@@ -5,9 +5,9 @@ import "./home.css";
 import ReviewSlider from "../../Components/ReviewSlider/ReviewSlider";
 import Accordion from "../../Components/Accordion/Accordion";
 import { faqData } from "./../../faq-data";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 export default function Home() {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   return (
     <div>
       <ImageSlider />

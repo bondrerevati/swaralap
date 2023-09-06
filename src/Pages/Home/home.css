@@ -68,6 +68,16 @@
 @media screen and (max-width: 600px) {
   .guru-images {
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 2% auto;
+    width: 70%;
+  }
+  .guru-image {
+    width: 200px;
+  }
+  .guru-details {
+    width: 50%;
+  }
+  .about-text {
+    font-size: 0.75em;
   }
 }

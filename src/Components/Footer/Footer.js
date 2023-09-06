@@ -22,6 +22,7 @@ export default function Footer() {
       </div>
       <div className="map">
         <iframe
+          title="map"
           src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15127.095321364592!2d73.8130623!3d18.5842326!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b90bd8d3fb51%3A0x33a5ea13c41e7b0d!2sSWARALAP%20MUSIC%20ACADEMY%2C%20Pune.!5e0!3m2!1sen!2sin!4v1692890077291!5m2!1sen!2sin"
           width="300"
           height="300"

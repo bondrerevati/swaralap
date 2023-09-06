@@ -23,7 +23,7 @@ function Accordion({ items }) {
                 <h4 className="question-style">{item.question}</h4>
                 <FiPlus
                   className={
-                    index == activeIndex
+                    index === activeIndex
                       ? `question-icon rotate`
                       : `question-icon`
                   }
@@ -31,7 +31,7 @@ function Accordion({ items }) {
               </div>
               <div
                 ref={contentRef}
-                style={{ display: index == activeIndex ? "" : "none" }}
+                style={{ display: index === activeIndex ? "" : "none" }}
               >
                 <p className="ans-div">{item.answer}</p>
               </div>
