@@ -81,4 +81,8 @@ hr {
   .slider {
     height: 60vh;
   }
+  .slide img {
+    width: 100vw;
+    height: auto;
+  }
 }
