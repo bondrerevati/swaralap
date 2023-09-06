@@ -79,7 +79,13 @@ hr {
     width: 100%;
   }
   .slider {
-    height: 60vh;
+    float:left;
+    overflow: auto;
+    min-height: 20vh;
+    height: auto;
+  }
+  .slide {
+    height: auto;
   }
   .slide img {
     width: 100vw;
