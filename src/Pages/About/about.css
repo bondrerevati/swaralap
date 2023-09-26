@@ -19,7 +19,6 @@
 }
 .guru-detail {
   display: flex;
-  border: solid 1px #000;
 }
 .guru-img-div {
   width: 25%;
@@ -28,10 +27,28 @@
   align-items: center;
 }
 .guru-img {
-  width: 200px;
+  width: 18vw;
   height: auto;
 }
 .guru-det {
   width: 75%;
   padding: 10px;
+}
+@media screen and (max-width: 600px) {
+  .guru-d {
+    font-size: 0.75em;
+  }
+  .guru-det {
+    font-size: 0.75em;
+  }
+  .guru-det-div {
+    margin: 25px auto;
+    width: 90%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .guru-det-div {
+    margin: 35px auto;
+    width: 80%;
+  }
 }
