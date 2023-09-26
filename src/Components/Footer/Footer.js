@@ -13,9 +13,9 @@ export default function Footer() {
           <br />
           Kavadenagar, Pimple Gurav, Sangavi
           <br />
-          Pune 411060 Maharashtra
+          Pune 411061 Maharashtra
           <h5>Phone</h5>
-          094204 26951
+          +91 94204 26951
           {/* <h5>Email</h5>
           abc@xyz.com */}
         </div>
